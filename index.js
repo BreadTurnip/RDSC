@@ -1,0 +1,1 @@
+alert("Welcome!  This campaign launches at 7pm EST on October 10 2017.");
